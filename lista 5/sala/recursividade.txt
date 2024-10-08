@@ -1,0 +1,9 @@
+Recursão (quando uma função chama ela mesma, a cada nova chamada muda o parametro de entrada ou var de entrada), empilha cada chamada (reserva memoria), quando o compilador encontra o criterio de parada (caso base), depois ele vonta desempilhando ela mesma 
+
+sintaxe 
+
+<tipo> funççao-recursiva (tipo var)
+    se (var == caso_base)
+        return resultado
+    se não
+        return funçao_recursiva(var1)

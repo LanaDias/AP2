@@ -1,0 +1,17 @@
+modulos 
+variaveis (escopo){
+    global
+    local
+}
+variaveis (tipo){
+    int,float,char
+}
+
+1) A boa pratica de programação diz que não devemos utilizar var global
+2) passagem de parametro por valor e por referência. Ex: f(x)=x+90;
+3) 
+
+PASSAGEM POR PARAMETRO 
+parametro é um valor proveniente de uma variável  
+a lingagem c aceita 0 ou mais parametros
+sintaxe : tipo nome_funcao (tipo nome_argumento)

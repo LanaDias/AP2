@@ -1,0 +1,18 @@
+algoritimo tem: 
+entrada  processamento saida 
+
+função:
+
+tipo nome () {
+
+}
+
+var local: colocadas dentro da main, ou outra função.
+var global: colocadas fora da main, ou qualquer outra  função
+
+duas var locais com o mesmo nome na mesma função, pode ou  não?
+não a problema
+
+agora duas globais iguais, poder pode, pois tem endereços de memoria diferentes porem fica confuso de saber como ou onde estou usando a variavel, não é uma boa pratica de programação.
+
+psquisar (palavras reservadas ,div...)
